@@ -1,6 +1,9 @@
 # Uni-Innsbruck-Einrichtung-VPN-unter-Linux
 ## Einleitung
 ## Haftungserklärung
+
+Ich habe bei der Ausarbeitung des Tutorials zwar nach bestem Wissen und Gewissen gearbeitet, allerdings werde ich für möglich Schäden die durch dieses Tutorial entstehen könnten keine Haftung übernehmen. Wie immer: DYOR!
+
 ## Tutorial Video
 ## Tutorial Anweisung Copy and Paste
 
