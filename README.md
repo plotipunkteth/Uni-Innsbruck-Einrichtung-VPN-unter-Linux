@@ -9,8 +9,7 @@ Ich habe bei der Ausarbeitung des Tutorials zwar nach bestem Wissen und Gewissen
 
 ## Tutorial Video
 
-![Slide1](https://user-images.githubusercontent.com/54290469/196738231-4bd2f44d-c4c0-4ff2-84f6-7878411fa67d.jpg)
-https://vimeo.com/761918572
+![Slide1](https://user-images.githubusercontent.com/54290469/196738231-4bd2f44d-c4c0-4ff2-84f6-7878411fa67d.jpg)(https://vimeo.com/761918572)
 
 ## Tutorial Anweisung Copy and Paste
 
